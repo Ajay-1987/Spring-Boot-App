@@ -10,7 +10,6 @@ public class SpringBootAppApplication {
 
 	public static void main(String[] args) {
 		log.info("Processing started...");
-		log.info("Processing started...");
 
 
 		SpringApplication.run(SpringBootAppApplication.class, args);
